@@ -13,6 +13,7 @@ A telegram bot list collection
 
 ## Table of Contents
 
+- [Multi Usage Bots](#multi-usage-bots)
 - [Converter Bots](#converter-bots)
 - [Rename Bots](#rename-bots)
 - [URL Uploaders](#url-uploaders)
@@ -44,6 +45,35 @@ A telegram bot list collection
 - [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
 
 ---
+
+### Multi Usage Bots
+
+| Bot | Description |
+|---|---|
+| [MultiUsageBot](https://telegram.me/MultiUsageBot) | A bot has available more than 20 functions  :- |
+| | <b>Functions are</b> 👇 | 
+|  | ✶1. Info | 
+|  | ✶2. Translator | 
+|  | ✶3. Video Trimmer | 
+|  | ✶4. Video Merger | 
+|  | ✶5. Screenshot Generator | 
+|  | ✶6. Video Sample Generator | 
+|  | ✶7. Manual Screenshot Generate | 
+|  | ✶8. Forwarded Tag Remover | 
+|  | ✶9. Caption Editor ( Add And Remove ) | 
+|  | ✶10. Video/File Renamer | 
+|  | ✶11. Video Converter ( c2v , c2f ) | 
+|  | ✶12. Audio Converter ( Mp3 ) | 
+|  | ✶13. Image To PDF Converter | 
+|  | ✶14. Telegraph Image Uploader | 
+|  | ✶15. Show Json | 
+|  | ✶16. Stylish Text Maker | 
+|  | ✶17. YT Thumbnail Downloader | 
+|  | ✶18. Get Sticker Id | 
+|  | ✶19. Find Sticker From Sticker Id | 
+|  | ✶20. Web Uploader ( Anonfiles.com , Tranfer.sh , Bayfiles.com) | 
+|  | ✶21. Link Short And Unshort | 
+|  | ✶22. URL Uploader |
 
 ### Converter Bots
 
