@@ -35,7 +35,6 @@ A telegram bot list collection
 - [Video Compress Bot](#video-compress-bots)
 - [Zee5 Bots](#zee5-bots)
 - [YouTube Bot](#youtube-video-downloader-bots)
-- [Session String Bot](#session-string-bots)
 - [Song Bot](#song-bots)
 - [Force Sub Bot](#force-subscribe-bots)
 - [Study Material Bots](#study-material-bots)
@@ -43,7 +42,8 @@ A telegram bot list collection
 - [PDF Bots](#pdf-bots)
 - [Font Bots](#font-bots)
 - [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
-- [Temporary Service Bots](#temporary-service-bots)
+- [Temporary Service Bots](#temporary-service-bots) 
+- [Telegram Utility Bots](#telegram-utility-bots)
 
 ---
 
@@ -82,6 +82,8 @@ A telegram bot list collection
 |---|---|
 | [FnConvertBot](https://telegram.me/FnConvertBot) | Telegram file or media converter with permanent thumbnail saving support |
 | [Converter_ProBot](https://t.me/Converter_ProBot) | A Telegram Bot To Convert File To Video And Video To File With Custum Thumbnail Support |
+| [File Converter](https://t.me/newfileconverterBot) | This bot allows to convert files from one fromat to another easily. |
+| [Cloud Convert Bot](https://t.me/cloud_convert_bot) | This bot convert files in different 218 file formats. |
 
 ### Rename Bots
 
@@ -229,12 +231,6 @@ A telegram bot list collection
 | [Utube_downloadbot](https://telegram.me/Utube_downloadbot) | A youtube downloader bot |
 | [EK_YouTube_DL_Bot](https://t.me/EK_YouTube_DL_Bot) | A Bot That Helps You To Download YouTube Videos |
 
-### Session String Bots
-
-| Bot | Description |
-|---|---|
-| [SessionStringGenBot](https://t.me/SessionStringGenBoT) | |
-
 ### Song Bots
 
 | Bot | Description |
@@ -278,12 +274,20 @@ A telegram bot list collection
 
 | Bot | Description |
 |---|---|
-| [YuiVidioPlayer](https://t.me/Yuividioplayerbot) | A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups. |
+| [YuiVidioPlayer](https://t.me/Yuividioplayerbot) | A advanced Anime Theme VC Video Player created for playing video in the voice chats of Telegram Groups. |
 
 ### Temporary Service Bots
 
 | Bot | Description |
 |---|---|
 | [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
+
+### Telegram Utility Bots
+
+| Bot | Description |
+|---|---|
+| [TgScanRobot](https://t.me/tgscanroBot) | A Bot To Show Which Telegram Groups A Person Is Member Of. |
+| [SessionStringGenBot](https://t.me/SessionStringGenBoT) | Bot For Generating Pyrogram String Session. |
+| [BanInfoRobot](https://t.me/BanInfoRobot) | Checks if the user is banned in various Telegram's Anti-Spam Services like SpamWatch, CAS, etc. |
 
 ---
