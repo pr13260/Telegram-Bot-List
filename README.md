@@ -43,6 +43,7 @@ A telegram bot list collection
 - [PDF Bots](#pdf-bots)
 - [Font Bots](#font-bots)
 - [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
+- [Temporary Service Bots](#temporary-service-bots)
 
 ---
 
@@ -278,5 +279,11 @@ A telegram bot list collection
 | Bot | Description |
 |---|---|
 | [YuiVidioPlayer](https://t.me/Yuividioplayerbot) | A advanced Anime Theme VC Video Player created for playing vidio in the voice chats of Telegram Groups. |
+
+### Temporary Service Bots
+
+| Bot | Description |
+|---|---|
+| [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
 
 ---
