@@ -44,6 +44,7 @@ A telegram bot list collection
 - [Voice Chat Video Streamer Bots](#voice-chat-video-streamer-bots)
 - [Temporary Service Bots](#temporary-service-bots) 
 - [Telegram Utility Bots](#telegram-utility-bots)
+- [GitHub Bots](#github-bots)
 
 ---
 
@@ -290,5 +291,10 @@ A telegram bot list collection
 | [SessionStringGenBot](https://t.me/SessionStringGenBoT) | Bot For Generating Pyrogram String Session. |
 | [BanInfoRobot](https://t.me/BanInfoRobot) | Checks if the user is banned in various Telegram's Anti-Spam Services like SpamWatch, CAS, etc. |
 | [StickerDownloadBot](https://t.me/StickerDownloadBot) | Download any Telegram sticker in jpg, png & webp formats, or whole sticker pack in zip form |
+
+### GitHub Bots
+| Bot | Description |
+|---|---|
+| [GithubReleasesBot](https://t.me/GithubReleasesBot) | Notify the user for a followed GitHub repository's new releases |
 
 ---
