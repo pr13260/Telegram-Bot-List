@@ -1,17 +1,10 @@
-# Telegram-Bot-List
-
-A telegram bot list collection
-
----
-
 - Please add your [pull request](https://github.com/FayasNoushad/Telegram-Bot-List/pulls) or [issues](https://github.com/FayasNoushad/Telegram-Bot-List/issues) for adding bots with description
 - Please tell me your ideas in [discussion](https://github.com/FayasNoushad/Telegram-Bot-List/discussions)
 - Please suggest or report bots in [issues](https://github.com/FayasNoushad/Telegram-Bot-List/issues)
-- Please follow [FayasNoushad](https://github.com/FayasNoushad)
 
 ---
 
-## Table of Contents
+## Bots
 
 - [Multi Usage Bots](#multi-usage-bots)
 - [Converter Bots](#converter-bots)
@@ -284,6 +277,7 @@ A telegram bot list collection
 | [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
 | [TmpMailBot](https://t.me/tmpmailbot) | Your Temporary Email box |
 | [MailAbleBot](https://t.me/mailableBot) | A temporary mail inbox |
+| [DropMailBot](https://t.me/DropMailBot) | DropMail.me in Telegram |
 
 ### Telegram Utility Bots
 
