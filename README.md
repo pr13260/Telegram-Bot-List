@@ -283,7 +283,7 @@ A telegram bot list collection
 |---|---|
 | [TemporaryEmailBot](https://t.me/TemporaryEmailBot) | A Bot Which Can Generate Temporary Emails. |
 | [TmpMailBot](https://t.me/tmpmailbot) | Your Temporary Email box |
-| [MailAble Bot](https://t.me/mailableBot) | A temporary mail inbox |
+| [MailAbleBot](https://t.me/mailableBot) | A temporary mail inbox |
 
 ### Telegram Utility Bots
 
